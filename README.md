@@ -1,2 +1,2 @@
-# Trala
-Todo web app similar to trello
+# RealCo
+A simple real estate website template based from bayut and dubizzle

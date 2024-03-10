@@ -1,4 +1,6 @@
 # RealCo
-A simple real estate website template based from bayut and dubizzle using laravel framework
+-A simple real estate website template based from bayut and dubizzle using laravel framework
 
-On-going development
+-On-going development
+
+-Personal project
